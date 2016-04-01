@@ -58,9 +58,9 @@ If this is one part of a larger effort make it clear where this piece ends. In
 other words, what's the scope of this effort?
 
 At this point, if you would like to just get feedback on if the problem and
-proposed change fit in project, you can stop here and post this for review to get
-preliminary feedback. If so please say:
-Posting to get preliminary feedback on the scope of this spec.
+proposed change fit in project, you can stop here and post this for review to
+get preliminary feedback. If so please say:
+"Posting to get preliminary feedback on the scope of this spec."
 
 Alternatives
 ------------
@@ -101,12 +101,12 @@ but we're mostly trying to understand the timeline for implementation.
 Dependencies
 ============
 
-* Include specific references to specs and/or blueprints in NextGen, or in other
-  projects, that this one either depends on or is related to.
+* Include specific references to specs and/or blueprints in NextGen, or in
+  other projects, that this one either depends on or is related to.
 
-.. * If this requires functionality of another project that is not currently used
-..   by NextGen (such as the glance v2 API when we previously only required v1),
-..   document that fact.
+.. * If this requires functionality of another project that is not currently
+..   used by NextGen (such as the glance v2 API when we previously only
+..   required v1), document that fact.
 
 * Does this feature require any new library dependencies or code otherwise not
   included in OpenStack? Or does it depend on a specific version of library?
