@@ -66,7 +66,7 @@ The following diagram describes the general architecture::
 
 The boxes on the top-left corner of the diagram represent the nodes where the
 OpenStack services run. The boxes on the bottom-left corner of the diagram
-represent the the nodes where the Kubernetes infrastructure services run. The
+represent the nodes where the Kubernetes infrastructure services run. The
 boxes on the right of the diagram represent the nodes where the LMA backends
 are run.
 
