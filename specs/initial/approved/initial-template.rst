@@ -1,1 +1,0 @@
-../../initial-template.rst
